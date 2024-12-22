@@ -20,6 +20,8 @@ export default function Contact() {
         sirirak.s@outlook.com
       </motion.a>
       <p className="mt-4 text-lg">.</p>
+      <h3 className="text-2xl font-semibold">Phone Number</h3>
+      <p className="mt-4 text-lg">(+66)0866911960</p>
     </motion.section>
   );
 }

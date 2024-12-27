@@ -101,6 +101,18 @@ export default function About() {
          </li>
      </ul>
    </section>
+   <section className="p-10 text-center">
+     <h2 className="text-3xl font-semibold">General Skills</h2>
+     <ul className="grid grid-cols-2 md:grid-cols-3 gap-8 mt-6">
+         <li className="flex flex-col items-center">
+            <p className="mt-2 text-lg">Thai: Fluent</p>
+            <p className="mt-2 text-lg">English: Advanced</p>
+            <p className="mt-2 text-lg">Chinese: Intermediate</p>
+            <p className="mt-2 text-lg">Japanese: Intermediate</p>
+            <p className="mt-2 text-lg">Korean: Intermediate</p>
+         </li>
+     </ul>
+   </section>
    </motion.section>
   );
 }

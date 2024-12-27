@@ -60,26 +60,28 @@ export default function About() {
      <h2 className="text-3xl font-semibold">Computer General Skills</h2>
      <ul className="grid grid-cols-2 md:grid-cols-3 gap-8 mt-6">
          <li className="flex flex-col items-center">
-           <p className="mt-2 text-lg">Microsoft Office Suite
-Adobe Photoshop
-Adobe Illustrator
-Adobe Premire Pro
-Adobe Audition
-Adobe After Effects
-Composer(PHP)
-NodeJS(JavaScript & TypeScript)
-GIT
-VSCode
-PostMan
-MySQL
-MongoDB
-Tableau
-Microsoft Power BI App
-Adobe Photoshop Lightroom
-Microsoft SQL Server
-Oracle Database
-Unity
-Cloud server(AWS,Azure,GCloud)</p>
+           <p className="mt-2 text-lg">Microsoft Office Suite</p>
+            <p className="mt-2 text-lg">Adobe Photoshop</p>
+            <p className="mt-2 text-lg">Adobe Illustrator</p>
+            <p className="mt-2 text-lg">Adobe Premire Pro</p>
+            <p className="mt-2 text-lg">Adobe Audition</p>
+            <p className="mt-2 text-lg">Adobe After Effects</p>
+            <p className="mt-2 text-lg">Adobe Photoshop Lightroom</p>
+            <p className="mt-2 text-lg">Composer(PHP)</p>
+            <p className="mt-2 text-lg">NodeJS(JavaScript & TypeScript)</p>
+            <p className="mt-2 text-lg">GIT</p>
+            <p className="mt-2 text-lg">VSCode</p>
+            <p className="mt-2 text-lg">PostMan</p>
+            <p className="mt-2 text-lg">MySQL</p>
+            <p className="mt-2 text-lg">MongoDB</p>
+            <p className="mt-2 text-lg">Oracle Database</p>
+            <p className="mt-2 text-lg">Microsoft SQL Server</p>
+            <p className="mt-2 text-lg">Tableau</p>
+            <p className="mt-2 text-lg">Microsoft Power BI App</p>
+            <p className="mt-2 text-lg">Unity</p>
+            <p className="mt-2 text-lg">Cloud server(AWS,Azure,GCloud)</p>
+            <p className="mt-2 text-lg">VMWare</p>
+            <p className="mt-2 text-lg">Oracle Virtual Box</p>
          </li>
      </ul>
    </section>
@@ -87,14 +89,15 @@ Cloud server(AWS,Azure,GCloud)</p>
      <h2 className="text-3xl font-semibold">General Skills</h2>
      <ul className="grid grid-cols-2 md:grid-cols-3 gap-8 mt-6">
          <li className="flex flex-col items-center">
-           <p className="mt-2 text-lg">Team Working
-Communications
-Fast Learner
-Combine skills
-Continue using skills
-Willingness to Learn
-Learning and Evolve
-Learning Skills</p>
+            <p className="mt-2 text-lg">Team Working</p>
+            <p className="mt-2 text-lg">Communications</p>
+            <p className="mt-2 text-lg">Fast Learner</p>
+            <p className="mt-2 text-lg">Combine skills</p>
+            <p className="mt-2 text-lg">Continue using skills</p>
+            <p className="mt-2 text-lg">Willingness to Learn</p>
+            <p className="mt-2 text-lg">Learning and Evolve</p>
+            <p className="mt-2 text-lg">Learning Skills</p>
+            <p className="mt-2 text-lg">Critical Thinking</p>
          </li>
      </ul>
    </section>
